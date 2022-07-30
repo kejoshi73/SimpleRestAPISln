@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "SimpleRestAPI.Test": {
+      "commandName": "Project"
+    }
+  }
+}
